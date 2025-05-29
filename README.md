@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gnaneswar_NavalArch
+- 👋 Hi, I’m Gnaneswar, a Naval Architect 
 - 👀 I’m interested in ...Naval architecture related Python codes which automate manual boring tasks 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...#Naval Architecture # Offshore transportation and installtion #python coding 
