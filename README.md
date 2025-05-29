@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GnaneswarNavalArch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sgnaneswarnma@yahoo.com
+- 👋 Hi, I’m @Gnaneswar_NavalArch
+- 👀 I’m interested in ...Naval architecture related Python codes which automate manual boring tasks 
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on ...#Naval Architecture # Offshore transportation and installtion #python coding 
+- 📫 How to reach me ...Gnaneswar.navalarch@gmail.com
 
 <!---
 GnaneswarNavalArch/GnaneswarNavalArch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
